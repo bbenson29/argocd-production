@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: helm
-    repoURL: https://github.com/bbenson29/devops-toolkit.git
+    repoURL: https://github.com/vfarcic/devops-toolkit.git
     targetRevision: HEAD
     helm:
       values: |
